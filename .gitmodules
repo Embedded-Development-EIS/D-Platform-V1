@@ -3,4 +3,10 @@
 	url = https://github.com/openembedded/openembedded-core
 [submodule "meta-oe"]
 	path = meta-oe
-	url = https://github.com/openembedded/meta-openembedded.git
+	url = https://github.com/openembedded/meta-openembedded
+[submodule "bitbake"]
+	path = bitbake
+	url = git://git.openembedded.org/bitbake
+[submodule "meta-ccc"]
+	path = meta-ccc
+	url = https://github.com/Embedded-Development-EIS/meta-ccc
