@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # D-Platform-V1
 EIS developed new BSP for the CCC unit (EIS Product) on top of mainline linux distribution, based on open embedded project and Bitbake tool. This BSP is basically a lightweight OpenEmbedded based Linux Distribution.
 
@@ -49,3 +50,13 @@ all the sub-repositories along with it, run the following commands:
 git pull
 git submodule update
 ```
+=======
+# meta-ccc
+
+Bard Support Package layer for the EIS CCC hardware unit.
+
+
+# Contact
+
+E.I.S Electronics
+>>>>>>> 317e871d1c95f97722a80ac8e3235fbc3c4be344
